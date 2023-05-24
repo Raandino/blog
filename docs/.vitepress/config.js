@@ -1,5 +1,5 @@
 export default {
-    title: 'VitePress',
+    title: `Rodolfo's Blog`,
     description: 'Just playing around.',
     cleanUrls: true,
     themeConfig: {
@@ -9,9 +9,7 @@ export default {
                 {
                   text: 'Books',
                   items: [
-                    { text: 'Ego is the enemy', link: '/books/ego' },
-                    { text: 'How not to died alone', link: '/books/alone' },
-                    { text: `I'm glad my mom died`, link: '/books/mom' }
+                    { text: 'The Psychology of Money ', link: '/books/the-psychology-of-money' },
                   ]
                 }
               ],
