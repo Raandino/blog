@@ -45,7 +45,7 @@ asi que siguiento la regla 80/20 ahora publico este blog post.
 Hoy **29 Noviembre 2023** decido hacerlo publico, solo unas cuantas personas cercanas a mi y a las cuales admiro han visto este blog post, es cierto que no esta completo, porque la version original incluia el resumen completo del libro, pero creo que si quiero ser fiel a mis propieos consejos tengo que salir y arriesgarme a equivocarme y me doy cuenta de la importancia de este viaje personal hacia una relación más saludable con las finanzas. Cada paso, cada desafío, ha sido una lección valiosa.
 
 ## 🧠 Conclusión
-Ahora, me encantaría escuchar tus experiencias. ¿Cuáles son tus desafíos financieros? ¿Has tenido alguna revelación similar en tu camino hacia una mejor comprensión de la relación entre el dinero y la felicidad? Compartir nuestras historias nos ayuda a aprender y crecer juntos.
+Ahora, me encantaría escuchar tus experiencias, me lo puedes contar aqui [Instagram](https://www.instagram.com/raandino.dev) ¿Cuáles son tus desafíos financieros? ¿Has tenido alguna revelación similar en tu camino hacia una mejor comprensión de la relación entre el dinero y la felicidad? Compartir nuestras historias nos ayuda a aprender y crecer juntos.
 
 Además, ¿tienes algún libro o recurso sobre finanzas personales que te haya impactado? ¡Me encantaría conocer nuevas perspectivas y recomendaciones!
 
@@ -55,4 +55,4 @@ Agradezco tu tiempo y espero que esta conversación nos acerque un poco más a u
 
 ¡Nos vemos pronto!
 
-Rodolfo 🌟
+**Rodolfo** ⭐️
