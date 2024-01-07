@@ -8,7 +8,7 @@ A veces, me encuentro observando a los demás y preguntándome cómo será su vi
 
 Esta idea la empecé a trabajar hace un año; inicialmente, era un video para mi canal de YouTube. Sin embargo, a veces la visión que tenemos sobre las cosas no se cumple. **Aquí te dejo el video.** ⬇️ 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ft51dEUj3jc?si=AT0qnJwNOLjVueaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe  height="315" src="https://www.youtube.com/embed/ft51dEUj3jc?si=AT0qnJwNOLjVueaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Hace un año, las cosas eran tan diferentes a lo que son ahora; otras permanecen exactamente igual. Mi día comienza tomando agua. Después, empiezo con reuniones como cualquier equipo de desarrollo en estos días, donde compartimos el status con el equipo interno de la empresa.
 
